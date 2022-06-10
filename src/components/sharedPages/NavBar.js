@@ -5,19 +5,19 @@ import { Link } from "react-router-dom";
 const NavBar = () => {
   const navbarItems = (
     <>
-      <li className="mx-auto lg:mr-4">
+      <li className="mx-auto lg:mr-4 uppercase">
         <a href="/#banner">Home</a>
       </li>
-      <li className="mx-auto lg:mr-4">
+      <li className="mx-auto lg:mr-4 uppercase">
         <a href="/#portfolio">Projects</a>
       </li>
-      <li className="mx-auto lg:mr-4">
+      <li className="mx-auto lg:mr-4 uppercase">
         <a href="/#services">Services</a>
       </li>
-      <li className="mx-auto lg:mr-4">
+      <li className="mx-auto lg:mr-4 uppercase">
         <a href="/blogs">Blogs</a>
       </li>
-      <li className="mx-auto lg:mr-4">
+      <li className="mx-auto lg:mr-4 uppercase">
         <a href="/about">About</a>
       </li>
       <li>
