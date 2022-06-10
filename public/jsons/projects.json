@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Par-T-ake",
+    "type": "Computer accessories Website",
+    "screenshots": [
+      {
+        "title": "Homepage",
+        "image": "images/screenshots/computerPart.png"
+      },
+      {
+        "title": "Login form",
+        "image": "images/screenshots/loginform.png"
+      },
+      {
+        "title": "My Profile",
+        "image": "images/screenshots/Myprofile.png"
+      }
+    ],
+    "description": "This is a full-stack responsive react project where users can buy products from here. Users can go order and go to the order page. They can also go to the Dashboard.",
+    "detailedDescription": "This is a website made for an imaginary company called Iron Works who manufacturers hand tools and operates in the south Asia region. Regular users will be able to login and purchase their products in bulk form the site. Each product has its own minimum order quantity and total stock. After placing the order the user can go to the dashboard to delete or pay for the order. Users with admin privilege will be able to add and remove products. They will be able to see all of the orders and their payment status. If the payment is done, the admins can ship the product to the user.",
+    "links": [
+      {
+        "title": "Live Site",
+        "url": "https://computer-parts-6a196.web.app/"
+      },
+      {
+        "title": "Client Side Code",
+        "url": "https://github.com/minhaz50/computer-parts-client-side"
+      },
+      {
+        "title": "Server Side Code",
+        "url": "https://github.com/minhaz50/coputer-parts-server-side"
+      }
+    ]
+  },
+  {
+    "name": "Fitness care",
+    "type": "Fitness care Website",
+    "screenshots": [
+      {
+        "title": "Homepage",
+        "image": "images/screenshots/fitness.png"
+      },
+      {
+        "title": "Fitness Login",
+        "image": "images/screenshots/fitnessLogin.png"
+      },
+      {
+        "title": "Fitness Care Services",
+        "image": "images/screenshots/fitnessServices.png"
+      }
+    ],
+    "description": "This is a simple react website with routing and firebase authentication.. Where you can find the health care related tips and courses.",
+    "detailedDescription": "This is a inventory management website. Here the user can monitor their stock in the warehouse. They can also individually add more stock of each item or ship items away from the warehouse (decrease the stock). Alternatively, the users can delete an item or add new items in the inventory. The users can also see the items added by them.",
+    "links": [
+      {
+        "title": "Live Site",
+        "url": "https://fitness-care-a83c9.web.app/"
+      },
+      {
+        "title": "Client Side Code",
+        "url": "https://github.com/minhaz50/fitness-care"
+      }
+    ]
+  },
+  {
+    "name": "Headphones Worlds",
+    "type": "Headphones accessorise Website",
+    "screenshots": [
+      {
+        "title": "Homepage",
+        "image": "images/screenshots/headphones.png"
+      },
+      {
+        "title": "Reviews",
+        "image": "images/screenshots/headReviews.png"
+      },
+      {
+        "title": "404 Not found page",
+        "image": "images/screenshots/head404.png"
+      }
+    ],
+    "description": "This is a simple react website with routing . Users can See the reviews in the home page. In reviews Page all the reviews are available.",
+    "detailedDescription": "This is a website for a independent guitar teacher. The users can see all of his services and other user reviews in the homepage. They can log in to book a service. The login part is a must. If the user clicks on the booking button without logging in first, they wil be redirected to the login page and returned back to the checkout page after logging in successfully.",
+    "links": [
+      {
+        "title": "Live Site",
+        "url": "https://head-phones-worlds.netlify.app/"
+      },
+      {
+        "title": "Client Side Code",
+        "url": "https://github.com/minhaz50/headphones-worlds"
+      }
+    ]
+  }
+]
