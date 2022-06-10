@@ -16,8 +16,8 @@
         "image": "images/screenshots/Myprofile.png"
       }
     ],
-    "description": "This is a full-stack responsive react project where users can buy products from here. Users can go order and go to the order page. They can also go to the Dashboard.",
-    "detailedDescription": "This is a full-stack responsive react project where users can buy products from here. Users can go order and go to the order page. They can also go to the Dashboard.",
+    "description": "This is a full-stack responsive react project where users can buy products from here. Users can go order and and can the order page. They can also go to the Dashboard.",
+    "detailedDescription": "This is a full-stack responsive react project where users can buy products from here. Users can go order and go to the order page. They can also go to the Dashboard. Without login they cannot buy any product. They can't access to the purchase page.User can also singin with google.",
     "links": [
       {
         "title": "Live Site",
