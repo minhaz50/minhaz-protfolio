@@ -60,7 +60,7 @@ const ContactMe = () => {
             </div>
           </div>
         </div>
-        <div className="card w-full shadow-2xl bg-base-100 col-span-5 lg:col-span-3 ml-18">
+        <div className="card w-full shadow-2xl bg-cyan-900 col-span-5 lg:col-span-3 ml-18">
           <form
             action="https://formsubmit.co/md.minhazuddin2597@gmail.com"
             method="POST"

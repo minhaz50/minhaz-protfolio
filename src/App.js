@@ -9,7 +9,7 @@ import NavBar from "./components/sharedPages/NavBar";
 
 function App() {
   return (
-    <div>
+    <div className="bg-cyan-700">
       <div className="max-w-7xl p-10 mx-auto">
         <div className="sticky top-0 z-50">
           <NavBar></NavBar>

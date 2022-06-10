@@ -37,7 +37,7 @@ const NavBar = () => {
       initial={{ opacity: 0, y: -50 }}
       whileInView={{ opacity: 1, y: 0 }}
       transition={{ duration: 1, ease: "easeInOut" }}
-      className="navbar bg-base-100 mb-32"
+      className="navbar bg-cyan-700 mb-32"
     >
       <div className="navbar-start">
         <Link to="/" className="normal-case text-xl"></Link>

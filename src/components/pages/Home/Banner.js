@@ -26,7 +26,7 @@ const Banner = () => {
           </h1>
           <div className="text-3xl leading-relaxed mb-5">
             Front-end Web Developer With Expertise on
-            <span className="font-semibold text-amber-700">
+            <span className="font-semibold text-rose-700">
               <TypewriterComponent
                 options={{
                   strings: ["HTML5", "CSS3", "JavaScript", "ReactJS"],
@@ -42,7 +42,7 @@ const Banner = () => {
             rel="noreferrer"
             href="https://drive.google.com/file/d/1Ea4_6efFUOPZMLzDfgBRbd1sGpREzvP2/view?usp=sharing"
             target="_blank"
-            className="btn text-white uppercase bg-orange-400"
+            className="btn text-white uppercase bg-teal-700 border-0"
           >
             Hire Me
           </a>
